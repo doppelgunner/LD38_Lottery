@@ -7,6 +7,11 @@ A ludumdare 38 game. The theme: A Small World
 * Timelapse: https://youtu.be/Da3xAL9Xz0o
 * Youtube demo: https://youtu.be/-X_mZQa6t1I
 
+### Screenshots
+* ![Main menu scene](https://github.com/doppelgunner/LD38_Lottery/blob/docs/Screenshot%20(49).png)
+* ![Game scene](https://github.com/doppelgunner/LD38_Lottery/blob/docs/Screenshot%20(47).png)
+* ![Awarding scene](https://github.com/doppelgunner/LD38_Lottery/blob/docs/Screenshot%20(48).png)
+
 ### My Accounts 
   * [blogspot](http://doppelgunner.blogspot.com/)
   * [instagram](https://www.instagram.com/doppelgunner/)
