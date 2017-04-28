@@ -1,5 +1,5 @@
 # LD38_Lottery
-A ludumdare 38 game. The theme: A Small World
+A game for ludumdare 38. The theme: A Small World
 
 ### Links
 * Ludumdare game page: https://ldjam.com/events/ludum-dare/38/lottery-you-judge-them-i-judge-you
